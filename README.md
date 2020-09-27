@@ -1,12 +1,12 @@
 ## नमस्ते। 안녕하세요! Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[<img src="https://img.shields.io/badge/@DeftNinjaaa%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/1unatictitan)
+[<img src="https://img.shields.io/badge/@DeftNinjaaa%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/deftninjaaa)
 [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://in.linkedin.com/public-profile/in/pooja-more-299b50150)
-[<img src="https://img.shields.io/badge/DeftNinjaaa%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/lunatic%20titan)
-[<img src="https://img.shields.io/badge/DeftNinjaaa%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>](https://www.twitch.tv/ttv_lunatictitan)
+[<img src="https://img.shields.io/badge/DeftNinjaaa%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/deftninjaaa)
+[<img src="https://img.shields.io/badge/DeftNinjaaa%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>](https://www.twitch.tv/deftninjaaa)
 [<img src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.gg/6b9DyN)
 [<img src="https://img.shields.io/badge/DeftNinjaaa%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>](https://www.youtube.com/channel/UCwoecOKqHhck56PISPwLCAw)
-[<img src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>](steamcommunity.com/id/LunaticTitan98)
+[<img src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>](https://steamcommunity.com/id/LunaticTitan98)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
