@@ -3,28 +3,32 @@
 [<img src="https://img.shields.io/badge/@DeftNinjaaa%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/deftninjaaa)
 [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://in.linkedin.com/public-profile/in/pooja-more-299b50150)
 [<img src="https://img.shields.io/badge/DeftNinjaaa%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/deftninjaaa)
+[<img src="https://img.shields.io/badge/DeftNinjaaa%20-%23000000.svg?&style=for-the-badge&logo=Codepen&logoColor=ffffff"/>](https://codepen.io/deftninjaaa)
+[<img src="https://img.shields.io/badge/DeftNinjaaa%20-%231DA1F2.svg?&style=for-the-badge&logo=Behance&logoColor=white"/>](https://twitter.com/deftninjaaa)
+[<img src="https://img.shields.io/badge/DeftNinja%20-%23E4405F.svg?&style=for-the-badge&logo=Dribbble&logoColor=white"/>](https://dribbble.com/DeftNinja)
 [<img src="https://img.shields.io/badge/DeftNinjaaa%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>](https://www.twitch.tv/deftninjaaa)
 [<img src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.gg/6b9DyN)
 [<img src="https://img.shields.io/badge/DeftNinjaaa%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>](https://www.youtube.com/channel/UCwoecOKqHhck56PISPwLCAw)
 [<img src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>](https://steamcommunity.com/id/LunaticTitan98)
 
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 Welcome to my page!</br>
-I'm <b>Pooja</b>, an IT Engineering Student👩🏻‍🎓, who loves Gaming, Game Arts 👾 and Front-end development🤩 from <img src="https://cdn.countryflags.com/thumbs/india/flag-round-250.png" width="13"/> <b>India</b>. 
+I'm **Pooja**, an IT Engineering Student👩🏻‍🎓 from <img src="https://cdn.countryflags.com/thumbs/india/flag-round-250.png" width="13"/> **India**. I love Gaming, Game Arts 👾, UI/UX designing and Front-end development🤩 . 
 
-- 🔭 I’m currently <b>leveling up my coding skills and looking for a job.</b>
-- 🌱 I’m currently learning <b>React JS.</b>
-- 🤔 I’m looking for help with <b>JS frameworks.</b>
-- 💬 Ask me about <b>anything. Always happy to help.</b>
-- ⚡ Fun fact <b>I love outdoor sports and listening to Dance tracks while coding.</b>
+- 🔭 I’m currently **leveling up my coding skills and looking for a job.**
+- 🌱 I’m currently learning **React JS.**
+- 🤔 I’m looking for help with **JS frameworks.**
+- 💬 Ask me about **anything. Always happy to help.**
+- ⚡ Fun fact **I love outdoor sports and listening to Dance tracks while coding.**
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317qlqtddwe3edre5v3xjf4gfucu&cover_image=false)](https://spotify-github-profile.vercel.app/api/view?uid=317qlqtddwe3edre5v3xjf4gfucu&redirect=true)
 
 
 ## 💻 Operating System & Tools
 
-[![winOS](https://img.shields.io/badge/windows-10-blue?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-in/windows)
+[![WinOS](https://img.shields.io/badge/windows-10-blue?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-in/windows)
 [![elementaryOS](https://img.shields.io/badge/Elementary-Hera-87ceeb?style=flat-square&logo=Elementary&logoColor=ffffff)](https://elementary.io/)
 
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
@@ -40,16 +44,23 @@ I'm <b>Pooja</b>, an IT Engineering Student👩🏻‍🎓, who loves Gaming, Ga
 
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/> <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /> <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/> <img src="https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white"/> 
 
+<a href="https://github.com/deftninja/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deftninja&show_icons=true&bg_color=45,000000,333333&text_color=FFFFFF&title_color=00ff00&icon_color=ffff33&count_private=true" />
+</a>
+<a href="https://github.com/deftninja/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deftninja&layout=compact&bg_color=45,000000,333333&title_color=00ff00&text_color=FFFFFF&count_private=true" />
+</a>
+
 
 ## 🤟🏼 Acknowledgements [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 
-Leave a ⭐ on my README.md if you like it. Check out following links, they were very useful while designing this README.md.
+Leave a ⭐ on my README.md if you like it. Follow the following link to create an **AWESOME** README.md like this one.
 * [For awesome ideas](https://github.com/abhisheknaiidu/awesome-github-profile-readme#a-little-bit-of-everything-)
+* [For awesome quotes](https://github.com/PiyushSuthar/github-readme-quotes)
 * [For awesome technical badges](https://github.com/Ileriayo/markdown-badges)
 * [For awesome fun badges](https://forthebadge.com/)
-* [For the cool spotify player](https://github.com/kittinan/spotify-github-profile)
+* [For awesome github stats](https://github.com/anuraghazra/github-readme-stats)
+* [For awesome spotify card](https://github.com/kittinan/spotify-github-profile)
 
 
-[![forthebadge](https://forthebadge.com/images/badges/designed-in-inkscape.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/designed-in-inkscape.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
