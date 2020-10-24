@@ -51,16 +51,4 @@ I'm **Pooja**, an IT Engineering Student👩🏻‍🎓 from <img src="https://c
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deftninja&layout=compact&bg_color=45,000000,333333&title_color=00ff00&text_color=FFFFFF&count_private=true" />
 </a>
 
-
-## 🤟🏼 Acknowledgements [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
-
-Leave a ⭐ on my README.md if you like it. Follow the following link to create an **AWESOME** README.md like this one.
-* [For awesome ideas](https://github.com/abhisheknaiidu/awesome-github-profile-readme#a-little-bit-of-everything-)
-* [For awesome quotes](https://github.com/PiyushSuthar/github-readme-quotes)
-* [For awesome technical badges](https://github.com/Ileriayo/markdown-badges)
-* [For awesome fun badges](https://forthebadge.com/)
-* [For awesome github stats](https://github.com/anuraghazra/github-readme-stats)
-* [For awesome spotify card](https://github.com/kittinan/spotify-github-profile)
-
-
 [![forthebadge](https://forthebadge.com/images/badges/designed-in-inkscape.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
