@@ -51,4 +51,3 @@ I'm **Pooja**, an IT Engineering Student👩🏻‍🎓 from <img src="https://c
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deftninja&layout=compact&bg_color=45,000000,333333&title_color=00ff00&text_color=FFFFFF&count_private=true" />
 </a>
 
-[![forthebadge](https://forthebadge.com/images/badges/designed-in-inkscape.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
