@@ -3,7 +3,7 @@
 [<img src="https://img.shields.io/badge/@DeftNinjaaa%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/deftninjaaa)
 [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://in.linkedin.com/public-profile/in/pooja-more-299b50150)
 [<img src="https://img.shields.io/badge/DeftNinjaaa%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/deftninjaaa)
-[<img src="https://img.shields.io/badge/DeftNinjaaa%20-%23000000.svg?&style=for-the-badge&logo=Codepen&logoColor=ffffff"/>](https://codepen.io/deftninjaaa)
+[<img src="https://img.shields.io/badge/DeftNinjaaa%20-%23000000.svg?&style=for-the-badge&logo=Codepen&logoColor=ffffff"/>](https://codepen.io/deftninja)
 [<img src="https://img.shields.io/badge/DeftNinjaaa%20-%231DA1F2.svg?&style=for-the-badge&logo=Behance&logoColor=white"/>](https://twitter.com/deftninjaaa)
 [<img src="https://img.shields.io/badge/DeftNinja%20-%23E4405F.svg?&style=for-the-badge&logo=Dribbble&logoColor=white"/>](https://dribbble.com/DeftNinja)
 [<img src="https://img.shields.io/badge/DeftNinjaaa%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>](https://www.twitch.tv/deftninjaaa)
