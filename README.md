@@ -6,7 +6,6 @@
 [<img src="https://img.shields.io/badge/DeftNinjaaa%20-%23000000.svg?&style=for-the-badge&logo=Codepen&logoColor=ffffff"/>](https://codepen.io/deftninja)
 [<img src="https://img.shields.io/badge/DeftNinja%20-%231DA1F2.svg?&style=for-the-badge&logo=Behance&logoColor=white"/>](https://www.behance.net/DeftNinja)
 [<img src="https://img.shields.io/badge/DeftNinja%20-%23E4405F.svg?&style=for-the-badge&logo=Dribbble&logoColor=white"/>](https://dribbble.com/DeftNinja)
-<!--[<img src="https://img.shields.io/badge/DeftNinjaaa%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>](https://www.twitch.tv/deftninjaaa)-->
 [<img src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.gg/6b9DyN)
 
 
