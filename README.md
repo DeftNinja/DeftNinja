@@ -9,8 +9,6 @@
 [<img src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.gg/6b9DyN)
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
-
 Welcome to my page!</br>
 I'm **Pooja**, an IT Engineering Student👩🏻‍🎓 from <img src="https://cdn.countryflags.com/thumbs/india/flag-round-250.png" width="13"/> **India**. I love Gaming, Game Arts 👾, UI/UX designing and Front-end development🤩 . 
 
